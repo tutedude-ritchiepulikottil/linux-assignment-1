@@ -1,2 +1,2 @@
 # linux-assignment-1
-Tutedude DevOps - Linux
+Attached Linux assignment in Word format here, kindly download from Repo
